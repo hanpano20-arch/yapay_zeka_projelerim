@@ -3,7 +3,7 @@ import ollama
 
 # --- 1. ADIM: FABRİKA VERİLERİNİ HESAPLAMA VE EXCEL OLUŞTURMA ---
 imalat_verisi = {
-    'Urun_Adi': ['Çelik Kapı (Model-A)', 'Yangın Kapısı', 'Lazer Kesim Sac', 'Ferforje Korkuluk'],
+    'Urun_Adi': ['Çelik Kapı (Model-A)', 'Yangın Kapısı', 'Lazer Kesim Sac', 'Ferforppje Korkuluk'],
     'Uretilen_Adet': [120, 45, 350, 80],
     'Hammadde_Maliyeti_TL': [1200, 1800, 250, 450],
     'Iscilik_Saati': [4, 6, 1, 3],
