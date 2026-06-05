@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Oluşturduğumuz Excel'i oku
+# Excel'i oku
 df = pd.read_excel('uretim_maliyeti.xlsx')
 
 # Toplam maliyeti hesapla
